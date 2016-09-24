@@ -1,0 +1,2 @@
+# StudentSystem
+Abstract class example
